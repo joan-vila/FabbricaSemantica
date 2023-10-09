@@ -1,0 +1,21 @@
+title { text-transform: capitalize; } 
+
+body {
+	display: flex;
+	flex-direction: column;
+	background-color: #f5f5f5
+}
+
+form
+{
+	margin: auto;
+	width: 60%;
+}
+
+h3 
+{
+	text-align: center;
+	text-transform: capitalize;
+}
+
+input[type=submit] { float: right; }
